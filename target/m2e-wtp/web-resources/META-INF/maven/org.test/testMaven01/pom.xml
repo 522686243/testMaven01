@@ -29,7 +29,7 @@
   </dependencies>
 
   <build>
-    <finalName>testMaven01</finalName>
+    <finalName>testMaven01-0.0.1-SNAPSHOT</finalName>
     <pluginManagement><!-- lock down plugins versions to avoid using Maven defaults (may be moved to parent pom) -->
       <plugins>
         <plugin>
@@ -69,6 +69,7 @@
              <configuration>
                  <source>1.8</source>    
                  <target>1.8</target> 
+				 
              </configuration>
        </plugin>
 
